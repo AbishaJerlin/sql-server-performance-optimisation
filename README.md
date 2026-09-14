@@ -1,6 +1,6 @@
 # SQL Server Query Performance Optimisation
 
-This repository is a cleaned portfolio version of my contribution to a university database systems and business intelligence group project.
+This repository is my contribution to a university database systems and business intelligence group project.
 
 My role in the project focused on **SQL Server performance analysis and indexing**. I analysed a query that joined the `OrderItem`, `Product` and `CustomerCity` tables, identified inefficient access patterns in the execution plan, created targeted non-clustered indexes, and compared the query plan before and after optimisation.
 
