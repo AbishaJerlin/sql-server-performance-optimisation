@@ -1,0 +1,19 @@
+# SQL Server / Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Local database files
+*.mdf
+*.ldf
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
